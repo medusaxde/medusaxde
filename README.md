@@ -1,4 +1,8 @@
+### medusaxde -- medusa xos development environment
+
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **medusaxde/medusaxde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
